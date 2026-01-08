@@ -33,6 +33,7 @@ nav ul li:hover{
     border-bottom: 1px solid maroon;
 }
 main{
+    text-align:center;
     padding-top: 150px;
     padding-left: 20px;
 }
@@ -59,3 +60,4 @@ main button{
 .icon{
     font-size: 1.5rem;
 }
+
